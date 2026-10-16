@@ -1,0 +1,13 @@
+{
+  "name": "taskly",
+  "version": "0.1.0",
+  "description": "A small task-tracker API and website, built to learn how products come together",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
